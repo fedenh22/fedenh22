@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 ### Hi there👋, Welcome!
+-->
 
 ###
 
@@ -28,14 +27,14 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/fedenh/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="https://twitter.com/fedenh1/"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
   <a href="https://instagram.com/fedenh/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
-  <a href="mailto:fedenhoundonougbo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/></a>
+  <a href="mailto:fedenh22+github@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/></a>
 </div>
 
-###
-
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/fedenh22/count.svg?"  />
 </div>
+-->
 
 ###
 
@@ -43,7 +42,13 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Eden from Abomey-Calavi University, Benin<br><br>- 🌱 I’m currently learning Information Systems and Computer Networks<br>- 🔭 I’m currently working on fairness in ML datasets<br>- 👯 I’m looking to collaborate on subjects related to decision support and software engineering <br>- ⚡ In my free time I love trying new things<br>- 😄 Pronouns: He, His, Him</p>
+<p align="left">I'm Eden, an amU's student<br><br>
+  - 🌱 I’m currently learning Data Science and Engineering<br>
+  - 🔭 I’m currently working on fairness in ML datasets<br>
+  - 👯 I’m looking to collaborate on subjects related to decision support and software engineering <br>
+  - ⚡ In my free time I love trying new things or discuss about coding, data, equity...<br>
+  - 😄 Pronouns: He, His, Him<br>
+</p>
 
 ###
 
